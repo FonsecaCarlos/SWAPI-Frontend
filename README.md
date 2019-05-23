@@ -1,5 +1,6 @@
-#SWAPI - FRONTEND ( Star Wars API )
-##Desbrave esse universo em um click!!!
+# SWAPI - FRONTEND ( Star Wars API )
+
+## Desbrave esse universo em um click!!!
 
 Essa aplicação foi desenvolvida em Maio de 2019 durante o último semestre da graduação em Análise e Desenvolvimento de Sistemas, sob a supervisão do professor Me. Fábio Duarte de Oliveira.
 
