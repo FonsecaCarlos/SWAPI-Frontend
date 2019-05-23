@@ -1,0 +1,8 @@
+.footer-wrapper {
+    display: grid;
+    justify-content: center;
+}
+
+.footer-wrapper p {
+    padding: 10px;
+}

@@ -1,0 +1,41 @@
+.page-wrapper {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin: 0 auto;
+    grid-template-columns: 1fr 1fr;
+    padding: 10px;
+}
+
+.page-wrapper-box {
+    position: relative;
+    margin: 5% 2%;
+    padding: 5%;
+    text-decoration: none;
+    color: black;
+    border: solid 1px;
+    border-radius: 5px;
+    height: 70%;
+}
+
+.navegation {
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+}
+
+.navegation button {
+    border: none;
+    background-color: gray;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.sub-title {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px 10px 0;
+}

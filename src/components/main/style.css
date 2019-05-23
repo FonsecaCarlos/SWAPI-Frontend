@@ -1,0 +1,14 @@
+.main-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-main {
+    background-color: gray;
+    color: aliceblue;
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    margin: 2px;
+}

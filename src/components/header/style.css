@@ -1,0 +1,10 @@
+.header-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100px;
+    background-color: gold;
+    text-decoration: none;
+    color: black;
+}
