@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SWAPI-Frontend/static/css/main.3093c623.chunk.css",
+    "main.js": "/SWAPI-Frontend/static/js/main.799fc920.chunk.js",
+    "main.js.map": "/SWAPI-Frontend/static/js/main.799fc920.chunk.js.map",
+    "runtime~main.js": "/SWAPI-Frontend/static/js/runtime~main.179df7ae.js",
+    "runtime~main.js.map": "/SWAPI-Frontend/static/js/runtime~main.179df7ae.js.map",
+    "static/js/2.43dd9522.chunk.js": "/SWAPI-Frontend/static/js/2.43dd9522.chunk.js",
+    "static/js/2.43dd9522.chunk.js.map": "/SWAPI-Frontend/static/js/2.43dd9522.chunk.js.map",
+    "index.html": "/SWAPI-Frontend/index.html",
+    "precache-manifest.7f498b306c3ac29da616b5fb4351d85c.js": "/SWAPI-Frontend/precache-manifest.7f498b306c3ac29da616b5fb4351d85c.js",
+    "service-worker.js": "/SWAPI-Frontend/service-worker.js",
+    "static/css/main.3093c623.chunk.css.map": "/SWAPI-Frontend/static/css/main.3093c623.chunk.css.map"
+  }
+}
