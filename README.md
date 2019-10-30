@@ -17,4 +17,8 @@ Realizamos apenas consultas simples devido o pouco tempo disponível para desenv
 
 Para isso utilizamos o framework [Create React App](https://github.com/facebook/create-react-app).
 
+A aplicação está hospedada no GitPages.
+Você pode ver ela em funcionamento clicando [aqui](https://fonsecacarlos.github.io/SWAPI-Frontend/).
+
+A aplicação também está hospedada no Heroku.
 Você pode ver ela em funcionamento clicando [aqui](https://swapi-frontend.herokuapp.com/).
